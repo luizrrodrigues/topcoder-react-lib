@@ -33,7 +33,7 @@
     "test": "npm run lint && npm run jest",
     "rimraf": "./node_modules/rimraf/bin.js"
   },
-  "version": "1000.13.2",
+  "version": "1000.13.3",
   "dependencies": {
     "auth0-js": "^6.8.4",
     "config": "^3.2.0",
